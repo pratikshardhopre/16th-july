@@ -13,7 +13,6 @@ public class Test3 {
 		Reporter.log("A method is runing",true);
 	  }
 	
-	
 	  @Test(groups="pass")
 	  public void B()
 	  {
