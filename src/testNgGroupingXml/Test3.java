@@ -23,6 +23,9 @@ public class Test3 {
 	  {
 		Reporter.log("B method is runing",true);
 	  }
+	  
+	  
+	  
 	  @Test(groups="id")
 	  public void D()
 	  {
